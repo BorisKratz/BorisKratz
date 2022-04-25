@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @BorisKratz
+- 👀 I’m interested in geology and geosciences
+- 🌱 I’m currently learning data science and mechanic
